@@ -1,0 +1,37 @@
+	*{
+			margin: 0;
+			border: 0;
+			padding: 0;
+		}
+		html{
+			font-family: arial;
+			font-size: 62.5%;
+		}
+		header{
+			background-color: #539DBF;
+			color: #fff;
+			
+			font-size: 1.8rem;
+			padding: 1rem;
+			padding-top: 1.5rem;
+        }
+        footer{
+        	background-color: #539DBF;
+        	color: #fff;
+        	
+        	font-size: 1.8rem;
+        	padding: 1rem;
+
+	
+        }
+        .content{
+        	font-size: 1.6rem;
+        	background-color: #fff;
+        	padding: 1.5rem;
+        	text-align: justify;
+        	margin: 0 auto;
+        	max-width: 1024px;
+        }
+        h3{
+        	font-size: 2rem;
+        }
